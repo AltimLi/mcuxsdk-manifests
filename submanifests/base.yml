@@ -42,7 +42,7 @@ manifest:
       branch_flow: false
   - name: mcux-soc-svd
     path: mcuxsdk/svd
-    revision: 84f6085811d78f85414b8ccdb6af3b76473da440
+    revision: 4562db680df05ef798dc58a8b540be7cdb2727d5
     groups:
     - optional
     userdata:
