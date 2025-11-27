@@ -100,7 +100,7 @@ manifest:
       track_branch: main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/ethermind
-    revision: bea42bcd3d1292534cdcf7cf2880d29df3a33d38
+    revision: 4861cc2c6a8c10f423b12fdbaa0f625b2011cb72
     url: https://github.com/nxp-mcuxpresso/mcux-sdk-middleware-ethermind
     groups:
     - ethermind
