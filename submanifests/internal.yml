@@ -198,3 +198,12 @@ manifest:
     revision: main
     groups:
     - bifrost
+  - name: mcux-sdk-middleware-eiq-int
+    userdata:
+      owner: xiaofeng.ren@nxp.com
+      track_branch: main
+      branch_flow: false
+    path: mcuxsdk/middleware/eiq_int
+    revision: main
+    groups:
+    - bifrost
