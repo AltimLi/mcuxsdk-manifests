@@ -108,7 +108,7 @@ manifest:
       track_branch: main-dev
       branch_flow: false
     path: mcuxsdk/components/psa_crypto_driver
-    revision: adc3d982510155aeec2945f2535f0446e7e27790
+    revision: 99b1b30b4508e43665099d512b55143681de6cdc
     url: https://github.com/NXP/psa_crypto_driver
     groups:
     - psa_crypto_driver
