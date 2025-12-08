@@ -51,7 +51,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: false
     path: mcuxsdk/firmware/edgelock
-    revision: a18436b23473bb23022c791fe68905641e184a8c
+    revision: 2bef02cfbb7079107ccda2b9a72af0d613aa9192
     repo-path: mcux-edgelock
     groups:
     - edgelock
