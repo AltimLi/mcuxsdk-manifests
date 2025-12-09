@@ -14,7 +14,7 @@ manifest:
       owner: nicolas.collonville@nxp.com
       track_branch: main
       branch_flow: false
-    revision: b7b71f01af69e79a408352e845a089e62a2756ec
+    revision: 048b21e25426512f70c672cd361759de3f222a89
     path: mcuxsdk/middleware/wireless/framework
     groups:
     - connectivity-framework
@@ -28,7 +28,7 @@ manifest:
       track_branch: develop/main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/genfsk
-    revision: 76987eec45e04a3f9f510de81d2426561b82ff77
+    revision: 2fb6e937979a8016af1b775ffc6b587145861fc2
     groups:
     - genfsk
     - middleware
@@ -40,7 +40,7 @@ manifest:
       track_branch: develop/main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/ble_controller
-    revision: c0940f515eb8f990b833f4dad3631ff8eaf03175
+    revision: cfb2d09458c959c92f2b7686ebd0862e7e862d2d
     groups:
     - ble_controller
     - middleware
@@ -52,7 +52,7 @@ manifest:
       track_branch: develop/main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/bluetooth
-    revision: 24befe84ca9ad53f05e124a816b7ab860cf2ee1b
+    revision: 2ad3d20ce27c27c0b33423d5ecdf5222125ee52a
     url: https://github.com/nxp-mcuxpresso/mcux-sdk-middleware-bluetooth-host
     groups:
     - bluetooth
@@ -65,7 +65,7 @@ manifest:
       track_branch: main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/XCVR
-    revision: a9e4e9ff3e8ec659ce1cc568947137a3241bc78b
+    revision: 558c437a4b2a41534003d70b328ff1987ef1c774
     url: https://github.com/nxp-mcuxpresso/mcux-sdk-middleware-xcvr
     groups:
     - XCVR
@@ -88,7 +88,7 @@ manifest:
       track_branch: public_main
       branch_flow: false
     path: mcuxsdk/middleware/wireless/ieee-802.15.4
-    revision: 30950b7aa1c41c834e047886d8b4364e9865b316
+    revision: 200c9dde288295da6249be453c608b51f84823ea
     repo-path: mcux-sdk-middleware-ieee_802.15.4
     groups:
     - ieee-802.15.4
@@ -111,7 +111,7 @@ manifest:
       track_branch: wifi_nxp_gh
       branch_flow: false
     path: mcuxsdk/middleware/wifi_nxp
-    revision: b02c4c2f145992929b154bad471be524ee261c43
+    revision: a4b7a458134a4aadf9fd8c38ca36237d1746c844
     url: https://github.com/NXP/wifi_nxp
     groups:
     - wifi_nxp
