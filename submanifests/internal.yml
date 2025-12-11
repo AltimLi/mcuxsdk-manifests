@@ -74,7 +74,7 @@ manifest:
       branch_flow: false
   - name: framework-int
     path: mcuxsdk/middleware/wireless/framework_private
-    revision: 0258bf5a9bcc5c502ac1b289f9155f079b6b6278
+    revision: fda6eacddce04b4ed32b7989d9ba56c6b189abc3
     groups:
     - bifrost
     userdata:
