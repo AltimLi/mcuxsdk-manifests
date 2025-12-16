@@ -11,7 +11,7 @@ manifest:
   projects:
   - name: freertos-kernel
     path: mcuxsdk/rtos/freertos/freertos-kernel
-    revision: 83fbccffad962cf1f2bbfc8e926e699a6547ca57
+    revision: 733768170197750ca709a771592c6d44551d259d
     groups:
     - freertos-kernel
     - rtos
@@ -36,7 +36,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/corepkcs11
-    revision: d75bff23edf54deaca740ae0051efbb513dbc4b1
+    revision: 931a0abb4f89db7d5f9a3e0621a94e6cfff3d7b3
     groups:
     - freertos
     - aws_iot
@@ -46,7 +46,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/coremqtt
-    revision: 656319154e551e295ecc23d5f35f205bc973eb42
+    revision: ecd1648987f46841b836674c3033b2b1297889e0
     groups:
     - freertos
     - aws_iot
@@ -56,7 +56,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/corejson
-    revision: 01ffdce397018260dd8139de8adc52065fc0c82d
+    revision: 7a73de19cee5497346e836e5582cd648526a7bcd
     groups:
     - freertos
     - aws_iot
@@ -66,7 +66,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/corehttp
-    revision: d15096156a324e64215574fbc4baf5a3b9563220
+    revision: 09e9b7471b2b8cdbb48563597fb56d9c831af606
     groups:
     - freertos
     - aws_iot
@@ -76,7 +76,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/backoffalgorithm
-    revision: 5f656090b0545ecdfbf457fad3914f720a81034e
+    revision: 45f3ab4a953aa7d77945f2537419e2f3833c4cf1
     groups:
     - freertos
     - aws_iot
@@ -86,6 +86,6 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/freertos-plus-tcp
-    revision: 69482b57d31d7b5c41ea0ce5e91f365569268dc1
+    revision: d43bf2ed89d4c491699c0cfd11e2c76cf3f06d50
     groups:
     - freertos
