@@ -13,6 +13,7 @@ manifest:
   - -bifrost
   - -ble_cs_algo_private
   - -bluetooth_private
+  - -fw_v19_nb
   self:
     path: manifests
     west-commands: scripts/west_commands.yml

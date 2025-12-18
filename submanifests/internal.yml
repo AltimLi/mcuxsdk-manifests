@@ -104,6 +104,15 @@ manifest:
     userdata:
       track_branch: develop/main
       branch_flow: false
+  - name: fw_v19_nb
+    path: mcuxsdk/middleware/wireless/fw_v19_nb
+    revision: 1e34994b145d301dc5487578a2d4c4f793835a2b
+    groups:
+    - bifrost
+    - fw_v19_nb
+    userdata:
+      track_branch: master
+      branch_flow: false
   - name: ble-controller-snps-int
     path: mcuxsdk/middleware/wireless/snps_ll_private
     repo-path: ble-controller-int-snps
