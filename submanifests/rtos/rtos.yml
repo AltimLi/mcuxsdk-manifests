@@ -46,7 +46,7 @@ manifest:
       track_branch: mcux_main
       branch_flow: true
     path: mcuxsdk/rtos/freertos/coremqtt
-    revision: ecd1648987f46841b836674c3033b2b1297889e0
+    revision: 902aeafd9c60c9e435206a2b54b27a2780367d79
     groups:
     - freertos
     - aws_iot
