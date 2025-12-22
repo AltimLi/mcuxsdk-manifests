@@ -43,10 +43,10 @@ manifest:
   - name: lvgl
     userdata:
       owner: cosmin.radu_1@nxp.com
-      track_branch: release/25.12.00-pvw2
+      track_branch: release/nxp-v9.4.0
       branch_flow: false
     path: mcuxsdk/middleware/lvgl
-    revision: 638bd3b79ada260b185f8d49334b2fd3e503f002
+    revision: ac0bdffa184625f737890eb1b1d86278bcac9f5a
     groups:
     - lvgl
     - middleware
