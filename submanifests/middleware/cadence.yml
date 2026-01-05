@@ -38,7 +38,8 @@ manifest:
       track_branch: main
       branch_flow: false
       display_name: NatureDSP
-      description: Digital Signal Processing for Xtensa HiFi1, HiFi4, FusionF1 Audio Engines
+      description: Digital Signal Processing for Xtensa HiFi1, HiFi4, FusionF1 Audio
+        Engines
     path: mcuxsdk/middleware/cadence/naturedsp
     revision: c4bc270ad983973bba96c85eb0810ced1a713a30
     groups:
